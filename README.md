@@ -1,4 +1,4 @@
-# Sales & Profit Analytics Dashboard
+# Sales & Profit Analytics Report
 
 Interactive dashboard developed in Power BI for sales and profit analysis.
 
